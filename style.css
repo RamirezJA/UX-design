@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.svg {
+  margin: 0;
+  padding: 0;
+}
+
+.intro {
+  background: #8e2de2; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #4a00e0,
+    #8e2de2
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #4a00e0,
+    #8e2de2
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.bio {
+  /* Jose Ramirez is a full stack javascript developer */
+
+  font-family: 'Roboto', sans-serif;
+
+  font-style: thin;
+
+  color: #f8e00c;
+}
+
+.react {
+  background: #75efef;
+}
+.store {
+  width: 248px;
+}
+
+.works {
+  font-family: 'Indie Flower', cursive;
+}
+
+.vanilla {
+  background: #f3a48b;
+}
+.vbox {
+  background: #fff176;
+}
+
+.node {
+  background: #efc5fe;
+}
+.box {
+  background: #bdffcc;
+}
