@@ -4,6 +4,27 @@
   box-sizing: border-box;
 }
 
+.num {
+  font-size: 40px;
+  position: relative;
+  left: 260px;
+  top: 60px;
+  color: #ab3fd0;
+}
+
+.pic {
+  margin: 0px;
+  position: relative;
+  left: 0px;
+  height: 140px;
+  top: 40px;
+}
+.title {
+  position: relative;
+  top: 50px;
+  left: -50px;
+}
+
 .svg {
   margin: 0;
   padding: 0;
@@ -21,16 +42,6 @@
     #4a00e0,
     #8e2de2
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-
-.bio {
-  /* Jose Ramirez is a full stack javascript developer */
-
-  font-family: 'Roboto', sans-serif;
-
-  font-style: thin;
-
-  color: #f8e00c;
 }
 
 .react {
